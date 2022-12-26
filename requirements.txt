@@ -28,5 +28,5 @@ six==1.10.0
 smmap2==2.0.3
 testdroid==2.41.2
 urllib3==1.22
-wheel==0.29.0
+wheel==0.38.1
 yarl==0.12.0
