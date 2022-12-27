@@ -23,7 +23,7 @@ pytest-xdist==1.20.0
 requests==2.18.3
 sauceclient==1.0.0
 selenium==2.53.6
-setuptools==36.4.0
+setuptools==65.5.1
 six==1.10.0
 smmap2==2.0.3
 testdroid==2.41.2
